@@ -5,7 +5,7 @@
 <!ENTITY author    "DanITman">
 <!ENTITY version   "2021.08.11">
 <!ENTITY launch    "Settings/&name;">
-<!ENTITY gitURL    "https://raw.githubusercontent.com/&author;/unRAID-&name;/master">
+<!ENTITY gitURL    "https://raw.githubusercontent.com/DanITman/unRAID-&name;/master">
 <!ENTITY pluginURL "&gitURL;/plugin/&name;.plg">
 <!ENTITY pkgURL    "&gitURL;/source/packages">
 <!ENTITY plgPATH   "/boot/config/plugins/&name;">
